@@ -2,4 +2,8 @@ nome
 idade
 Nome Mâe
 nome do pai
+<<<<<<< HEAD
 senha
+=======
+hora marcada
+>>>>>>> sitema-de-login
