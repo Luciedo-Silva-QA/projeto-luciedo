@@ -1,0 +1,45 @@
+[33m93ada24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 93ada24
+[33m93ada24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{1}: reset: moving to 93ada24
+[33mcdb66c2[m[33m ([m[1;31morigin/sitema-de-login[m[33m, [m[1;31morigin/master[m[33m, [m[1;32msitema-de-login[m[33m)[m HEAD@{2}: merge sitema-de-login: Fast-forward
+[33m5c6f4e7[m HEAD@{3}: checkout: moving from sitema-de-login to master
+[33mcdb66c2[m[33m ([m[1;31morigin/sitema-de-login[m[33m, [m[1;31morigin/master[m[33m, [m[1;32msitema-de-login[m[33m)[m HEAD@{4}: commit: Sistema de login
+[33m5c6f4e7[m HEAD@{5}: checkout: moving from master to sitema-de-login
+[33m5c6f4e7[m HEAD@{6}: merge sitema-de-login: Fast-forward
+[33mad5ecf4[m HEAD@{7}: pull: Fast-forward
+[33m9c833eb[m HEAD@{8}: checkout: moving from sitema-de-login to master
+[33m5c6f4e7[m HEAD@{9}: pull: Merge made by the 'ort' strategy.
+[33m1b0c293[m HEAD@{10}: commit: alterações
+[33m2fddef0[m HEAD@{11}: pull: Merge made by the 'ort' strategy.
+[33m9c833eb[m HEAD@{12}: merge master: Fast-forward
+[33m7279e6e[m HEAD@{13}: checkout: moving from master to sitema-de-login
+[33m9c833eb[m HEAD@{14}: commit: alterações
+[33mc9041ea[m HEAD@{15}: commit: alterações
+[33ma29ed99[m HEAD@{16}: commit (merge): alterações
+[33m93ada24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{17}: checkout: moving from sitema-de-login to master
+[33m7279e6e[m HEAD@{18}: commit: alterações
+[33m28d975b[m HEAD@{19}: checkout: moving from master to sitema-de-login
+[33m93ada24[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{20}: commit: ateração
+[33m28d975b[m HEAD@{21}: merge sitema-de-login: Fast-forward
+[33m1df90a7[m HEAD@{22}: checkout: moving from sitema-de-login to master
+[33m28d975b[m HEAD@{23}: pull: Merge made by the 'ort' strategy.
+[33mf033960[m HEAD@{24}: commit: alteração dados
+[33m648d190[m HEAD@{25}: commit: teste4
+[33m1d522dc[m HEAD@{26}: checkout: moving from master to sitema-de-login
+[33m1df90a7[m HEAD@{27}: commit (merge): cadastro
+[33m56e81aa[m HEAD@{28}: pull: Fast-forward
+[33m559b5ef[m HEAD@{29}: checkout: moving from sitema-de-login to master
+[33m1d522dc[m HEAD@{30}: commit: Alteração de dados
+[33m4bcddf7[m HEAD@{31}: commit: alteração de dados
+[33m559b5ef[m HEAD@{32}: checkout: moving from master to sitema-de-login
+[33m559b5ef[m HEAD@{33}: merge sitema-de-login: Fast-forward
+[33md17776f[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{34}: checkout: moving from sitema-de-login to master
+[33m559b5ef[m HEAD@{35}: commit: sistema-de-login
+[33md17776f[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{36}: checkout: moving from master to sitema-de-login
+[33md17776f[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{37}: merge staging: Fast-forward
+[33m8a849db[m[33m ([m[1;32mstanging[m[33m)[m HEAD@{38}: checkout: moving from staging to master
+[33md17776f[m[33m ([m[1;31morigin/staging[m[33m, [m[1;32mstaging[m[33m)[m HEAD@{39}: commit: Nome completo
+[33m8a849db[m[33m ([m[1;32mstanging[m[33m)[m HEAD@{40}: checkout: moving from master to staging
+[33m8a849db[m[33m ([m[1;32mstanging[m[33m)[m HEAD@{41}: reset: moving to 8a849db
+[33m656167b[m HEAD@{42}: reset: moving to 656167b
+[33m8a849db[m[33m ([m[1;32mstanging[m[33m)[m HEAD@{43}: commit: novo cadastro
+[33m656167b[m HEAD@{44}: commit (initial): commit incial
